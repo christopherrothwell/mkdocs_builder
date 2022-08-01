@@ -4,6 +4,7 @@ This container is used to compile MkDocs source code to fully functional page.
 
 Main purpose of creating it was to keep one of my web pages up to date.
 
+
 * Web site source code is kept in GitHub repository.
 * After I push canges, workflow is triggered.
 * The source gets compiled.
